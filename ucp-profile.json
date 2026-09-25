@@ -1,0 +1,1 @@
+{"ucp":{"version":"2026-08-25","capabilities":{"tools":["create_cart","get_cart","update_cart","create_checkout","get_checkout","update_checkout","complete_checkout","get_order","search_catalog","lookup_catalog","get_product"]}}}
